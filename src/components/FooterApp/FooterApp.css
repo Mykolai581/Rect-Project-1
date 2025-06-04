@@ -7,8 +7,6 @@
   gap: 30px;
   align-items: center;
 }
-.footer__item-main {
-}
 .footer__image {
   margin-bottom: 20px;
 }
@@ -24,8 +22,7 @@
   line-height: 1.5;
   font-weight: 300;
 }
-.text1 {
-}
+
 .footer__email,
 .footer__phone,
 .footer__street {
@@ -42,15 +39,12 @@
 .footer__street img {
   margin: 0px 5px 0px 0px;
 }
-.footer__item {
-}
-.item-footer {
-}
+
+
 .item-footer__title {
   margin-bottom: 35px;
 }
-.item-footer__list {
-}
+
 .item-footer__items {
   margin-bottom: 30px;
 }
@@ -71,16 +65,13 @@
 .item-footer__company {
   margin-bottom: 20px;
 }
-.company {
-}
+
 .company__link {
   color: #fff;
 }
-
 .company__link:hover {
   text-decoration: underline;
 }
-
 .item-footer__images {
   display: flex;
   gap: 20px;
